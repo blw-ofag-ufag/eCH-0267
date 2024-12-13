@@ -1,5 +1,7 @@
 # eCH-0266 -- Agrardaten - Berechnung
 
+**The devlopment of this standard is currently on hold!**
+
 This is the repository for technical artefacts related to this specification.
 Primarily, this repo contains:
 
